@@ -4,13 +4,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>fc8a474a-13f2-4592-9666-97399f3dd8d4</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
+    <ProjectHome>
+    </ProjectHome>
     <StartupFile>ClassificationSVM.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>ScikitlearnSandbox</Name>
+    <Name>ScikitlearnPlayground</Name>
     <RootNamespace>ScikitlearnSandbox</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -25,18 +26,10 @@
     <Compile Include="ClassificationSVM.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="helloworld.py" />
     <Compile Include="IrisClassifier.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="ScikitlearnSandbox.py" />
-    <Compile Include="IrisSVM.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="SVMLinearClassifier.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="XORNN.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
