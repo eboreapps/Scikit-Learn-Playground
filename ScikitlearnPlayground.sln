@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ScikitlearnPlayground", "ScikitlearnSandbox\ScikitlearnPlayground.pyproj", "{FC8A474A-13F2-4592-9666-97399F3DD8D4}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ScikitlearnPlayground", "ScikitlearnPlayground\ScikitlearnPlayground.pyproj", "{FC8A474A-13F2-4592-9666-97399F3DD8D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
