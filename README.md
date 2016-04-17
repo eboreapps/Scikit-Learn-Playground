@@ -2,8 +2,8 @@
 A repository to share Scikit Learn Machine Learning algorithms with the world
 
 ## Installation
-Install Python Tools for Visual Studio (You can use any of your favorite text editor).
-Anaconda Python
+1. Install Python Tools for Visual Studio (You can use any of your favorite text editor).
+2. Anaconda Python
 
 ## Contributing
 1. Fork it!
@@ -15,8 +15,8 @@ Anaconda Python
 ## History
 
 v0.1
-Decision tree classification on Iris dataset
-SVM classfication using RBH kernel
+1. Decision tree classification on Iris dataset
+2. SVM classfication using RBH kernel
 
 ## License
 Apache 2.0
