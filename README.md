@@ -14,9 +14,9 @@ A repository to share Scikit Learn Machine Learning algorithms with the world
 
 ## History
 
-v0.1
-1. Decision tree classification on Iris dataset
-2. SVM classfication using RBH kernel
+* v0.1
+* Decision tree classification on Iris dataset
+* SVM classfication using RBH kernel
 
 ## License
 Apache 2.0
