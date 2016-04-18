@@ -1,6 +1,8 @@
 # Scikit-Learn-Playground
 A repository to share Scikit Learn Machine Learning algorithms with the world
 
+![Alt text](rbf.jpg?raw=true "SVM using RBF Kernel")
+
 ## Installation
 1. Install Python Tools for Visual Studio (You can use any of your favorite text editor).
 2. Anaconda Python
