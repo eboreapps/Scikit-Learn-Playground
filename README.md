@@ -1,5 +1,5 @@
 # Scikit-Learn-Playground
-A repository to share Scikit Learn Machine Learning algorithms with the world
+A repository to share Scikit Learn Machine Learning algorithms and small snippets with the world
 
 ![Alt text](rbf.png?raw=true "SVM using RBF Kernel")
 
@@ -15,6 +15,12 @@ A repository to share Scikit Learn Machine Learning algorithms with the world
 5. Submit a pull request :D
 
 ## History
+
+* v0.2
+* Linear Regression
+* Stemming and Lemmatization
+* Stop words
+
 
 * v0.1
 * Decision tree classification on Iris dataset
