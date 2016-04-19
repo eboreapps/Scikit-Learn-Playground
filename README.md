@@ -21,14 +21,11 @@ A repository to share Scikit Learn Machine Learning algorithms and small snippet
 
 ## History
 
-* v2.0
-1. Linear Regression
-2. Stemming and Lemmatization
-3. Stop words
-
-* v0.1
 1. Decision tree classification on Iris dataset
 2. SVM classfication using RBH kernel
+3. Linear Regression
+4. Stemming and Lemmatization
+5. Stop words
 
 ## License
 Apache 2.0
