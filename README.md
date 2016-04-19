@@ -21,7 +21,6 @@ A repository to share Scikit Learn Machine Learning algorithms and small snippet
 * Stemming and Lemmatization
 * Stop words
 
-
 * v0.1
 * Decision tree classification on Iris dataset
 * SVM classfication using RBH kernel
