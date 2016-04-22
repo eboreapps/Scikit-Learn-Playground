@@ -6,7 +6,7 @@
     <ProjectGuid>fc8a474a-13f2-4592-9666-97399f3dd8d4</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>LinearRegression.py</StartupFile>
+    <StartupFile>CrossValidation.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,6 +24,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ClassificationSVM.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CrossValidation.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="LinearRegression.py">
