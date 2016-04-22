@@ -30,8 +30,8 @@ A repository to share Scikit Learn Machine Learning algorithms and small snippet
 
 ## Awesome Resources
 
-https://www.youtube.com/user/dataschool/videos
-https://www.youtube.com/watch?v=tNa99PG8hR8&index=1&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+1. https://www.youtube.com/user/dataschool/videos
+2. https://www.youtube.com/watch?v=tNa99PG8hR8&index=1&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 
 ## License
 Apache 2.0
