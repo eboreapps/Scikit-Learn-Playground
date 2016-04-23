@@ -27,6 +27,7 @@ A repository to share Scikit Learn Machine Learning algorithms and small snippet
 4. Stemming and Lemmatization
 5. Stop words
 6. Cross validation with KNN
+7. Multilabel Classification
 
 ## Awesome Resources
 
