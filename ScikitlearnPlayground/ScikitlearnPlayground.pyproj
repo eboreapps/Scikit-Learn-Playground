@@ -6,7 +6,7 @@
     <ProjectGuid>fc8a474a-13f2-4592-9666-97399f3dd8d4</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>CrossValidation.py</StartupFile>
+    <StartupFile>CrossValidationKNN.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,7 +26,7 @@
     <Compile Include="ClassificationSVM.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="CrossValidation.py">
+    <Compile Include="CrossValidationKNN.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="LinearRegression.py">
@@ -38,10 +38,10 @@
     <Compile Include="StopWords.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="IrisClassifier.py">
+    <Compile Include="IrisDecisionTreeClassification.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="SVMLinearClassifier.py">
+    <Compile Include="LinearClassifierSVM.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
