@@ -28,6 +28,9 @@ A repository to share Scikit Learn Machine Learning algorithms and small snippet
 5. Stop words
 6. Cross validation with KNN
 7. Multilabel Classification
+8. Efficient Parameter tuning using GridSearchCV
+9. Using RamdomizedSearchCV for computational efficiency
+10. Multi Parameter tuning
 
 ## Awesome Resources
 
